@@ -1,0 +1,49 @@
+Stage 1 / Strengthn ML Through (projects) (2-4 Weeks)
+
+Projects
+
+Kaggle
+
+Raw data
+
+Clean it / EDA
+
+Train Multiple Models
+
+Compare Metrics
+
+Tune the best Model
+
+Deploy Streamlit / Flask
+
+Upload it in github
+
+Linkedin
+
+ 
+
+ 
+
+Stage 2
+
+Dl
+
+ANN
+
+CNN
+
+RNN
+
+LSTM
+
+GenAI
+
+ 
+
+Stage 3
+
+Git , SQL, API, basic cloud / deployment, docker basics
+
+
+
+
